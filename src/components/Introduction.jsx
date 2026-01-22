@@ -1,7 +1,7 @@
 export default function Introduction() {
   const name = "Henry Hutcheson";
   const bio =
-    "I’m learning React by building small components and making the UI dynamic with JSX expressions.";
+    "This is my website for Purdue to work on my React skills. ";
   const email = "hhutches@purdue.brightspace.com";
 
   const showContact = true;

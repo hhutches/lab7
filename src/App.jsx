@@ -20,7 +20,7 @@ export default function App() {
     {
       id: "dogs",
       title: "My Dogs",
-      description: "A photo of my dogs — my favorite companions.",
+      description: "A photo of my dogs.",
       image: dogsPhoto,
       featured: false,
     },

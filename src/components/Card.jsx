@@ -3,7 +3,7 @@ import henryPhoto from "../assets/henry.jpeg";
 export default function Card() {
   // hard-coded content inside the component (no props)
   const title = "Me";
-  const bio = "A photo of me for my Lab 3 About Me site.";
+  const bio = "A photo of me";
   const featured = true;
 
   const cardClass = `card ${featured ? "card--featured" : ""}`;
